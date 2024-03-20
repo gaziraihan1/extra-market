@@ -31,7 +31,7 @@ nav ul li:hover{
 nav ul li a{
     text-transform: capitalize;
     text-decoration: none;
-    color:rgb(211, 133, 133);
+    color:rgb(235, 54, 54);
     padding:16px;
     font-family: 'Courier New', Courier, monospace;
     font-weight: 600;
@@ -60,12 +60,14 @@ nav ul li a:hover{
         padding: 0px 8px;
         border: none;
         cursor: pointer;
+        background: none;
+        color:wheat
     }
     
     nav ul {
         position: absolute;
         top: 50px;
-        background: #8d8b8b;
+        background: #4e4b4b;
         width: 100vw;
         left: 0;
         text-align: center;
